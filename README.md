@@ -1,2 +1,2 @@
 # glowing-potato
-nb-viewer notebook files
+temp teaching files, as needed

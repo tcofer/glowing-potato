@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="387"
+   height="54"
+   role="img"
+   aria-label="GitHub: Download"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="GitHub-Download-blue bigger.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   viewBox="0 0 1161 162">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>GitHub: Download</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs40" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1122"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="312.07442"
+     inkscape:cy="97.381415"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">GitHub: Download</title>
+  <linearGradient
+     id="s"
+     x2="0"
+     y2="48.187134"
+     gradientTransform="scale(2.6770631,0.37354368)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       stop-opacity=".7"
+       id="stop4" />
+    <stop
+       offset=".1"
+       stop-color="#aaa"
+       stop-opacity=".1"
+       id="stop6" />
+    <stop
+       offset=".9"
+       stop-color="#000"
+       stop-opacity=".3"
+       id="stop8" />
+    <stop
+       offset="1"
+       stop-color="#000"
+       stop-opacity=".5"
+       id="stop10" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       width="129"
+       height="18"
+       rx="4"
+       fill="#ffffff"
+       id="rect13"
+       x="0"
+       y="0" />
+  </clipPath>
+  <g
+     clip-path="url(#r)"
+     id="g22"
+     transform="scale(9)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       width="64"
+       height="18"
+       fill="#555555"
+       id="rect16"
+       x="0"
+       y="0" />
+    <rect
+       x="64"
+       width="65"
+       height="18"
+       fill="#007ec6"
+       id="rect18"
+       y="0" />
+    <rect
+       width="129"
+       height="18"
+       fill="url(#s)"
+       id="rect20"
+       style="fill:url(#s)"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     fill="#ffffff"
+     text-anchor="middle"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="110px"
+     id="g34"
+     transform="scale(9)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <image
+       x="5"
+       y="2"
+       width="14"
+       height="14"
+       xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xMiAuMjk3Yy02LjYzIDAtMTIgNS4zNzMtMTIgMTIgMCA1LjMwMyAzLjQzOCA5LjggOC4yMDUgMTEuMzg1LjYuMTEzLjgyLS4yNTguODItLjU3NyAwLS4yODUtLjAxLTEuMDQtLjAxNS0yLjA0LTMuMzM4LjcyNC00LjA0Mi0xLjYxLTQuMDQyLTEuNjFDNC40MjIgMTguMDcgMy42MzMgMTcuNyAzLjYzMyAxNy43Yy0xLjA4Ny0uNzQ0LjA4NC0uNzI5LjA4NC0uNzI5IDEuMjA1LjA4NCAxLjgzOCAxLjIzNiAxLjgzOCAxLjIzNiAxLjA3IDEuODM1IDIuODA5IDEuMzA1IDMuNDk1Ljk5OC4xMDgtLjc3Ni40MTctMS4zMDUuNzYtMS42MDUtMi42NjUtLjMtNS40NjYtMS4zMzItNS40NjYtNS45MyAwLTEuMzEuNDY1LTIuMzggMS4yMzUtMy4yMi0uMTM1LS4zMDMtLjU0LTEuNTIzLjEwNS0zLjE3NiAwIDAgMS4wMDUtLjMyMiAzLjMgMS4yMy45Ni0uMjY3IDEuOTgtLjM5OSAzLS40MDUgMS4wMi4wMDYgMi4wNC4xMzggMyAuNDA1IDIuMjgtMS41NTIgMy4yODUtMS4yMyAzLjI4NS0xLjIzLjY0NSAxLjY1My4yNCAyLjg3My4xMiAzLjE3Ni43NjUuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44MDUgNS42MjUtNS40NzUgNS45Mi40Mi4zNi44MSAxLjA5Ni44MSAyLjIyIDAgMS42MDYtLjAxNSAyLjg5Ni0uMDE1IDMuMjg2IDAgLjMxNS4yMS42OS44MjUuNTdDMjAuNTY1IDIyLjA5MiAyNCAxNy41OTIgMjQgMTIuMjk3YzAtNi42MjctNS4zNzMtMTItMTItMTIiLz48L3N2Zz4="
+       id="image24" />
+    <text
+       aria-hidden="true"
+       x="415"
+       y="140"
+       fill="#010101"
+       fill-opacity="0.3"
+       transform="scale(0.1)"
+       textLength="370"
+       id="text26"
+       lengthAdjust="spacing">GitHub</text>
+    <text
+       x="415"
+       y="130"
+       transform="scale(0.1)"
+       fill="#ffffff"
+       textLength="370"
+       id="text28"
+       lengthAdjust="spacing">GitHub</text>
+    <text
+       aria-hidden="true"
+       x="955"
+       y="140"
+       fill="#010101"
+       fill-opacity="0.3"
+       transform="scale(0.1)"
+       textLength="550"
+       id="text30"
+       lengthAdjust="spacing">Download</text>
+    <text
+       x="955"
+       y="130"
+       transform="scale(0.1)"
+       fill="#ffffff"
+       textLength="550"
+       id="text32"
+       lengthAdjust="spacing">Download</text>
+  </g>
+</svg>
